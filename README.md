@@ -1,3 +1,14 @@
+
+## Notes on assignment
+
+Input data is manually downloaded via browser to location on computer.
+
+See working directory set command at beginning which is where unzipped txt file must be.
+
+After it is read into R, working directory is reset for github downloaded directory. Kept separate intentionally.
+
+The beginning of each plot R scripts has the needed import commands and creates output to github downloaded directory.
+
 ## Introduction
 
 This assignment uses data from
